@@ -1,1 +1,2 @@
 # Seizure Detection using DNN
+Two python codes are uploaded, the first one is using Multilayer Perceptron to classifiy between Normal and seizier cases and the second is using 1D-DCNN for the classification. Both classifiers use PSD (power spectral Density) features extracted from the IMF (interinsic mode functions) that are generated from the EMD (empirical mode decomposition).EMD is shown in the uploaded Matlab file.
